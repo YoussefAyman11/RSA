@@ -1,0 +1,8 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "result[3]" LOC = D17;
+NET "result[2]" LOC = AB4;
+NET "result[1]" LOC = D21;
+NET "result[0]" LOC = W15;
+NET "start" LOC = F3;
