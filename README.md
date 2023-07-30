@@ -1,5 +1,4 @@
 # RSA
-RSA algorithm Implementation on FPGA using Verilog.
 RSA is a public-key cryptosystem that is widely used for secure data transmission. A public-key cryptosystem means that data is encrypted and decrypted using two different keys: private key and public key, respectively. This provides added data security but adds the complexity of the sharing and generating the private and public keys between sender and receiver.
 
 The encryption process is given by the following equation:
